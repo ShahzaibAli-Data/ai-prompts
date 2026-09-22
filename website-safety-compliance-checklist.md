@@ -1,0 +1,31 @@
+# Website Safety & Compliance Checklist
+
+- [ ] **Check colour contrast** — Ensures text is readable and accessible.
+- [ ] **Add alt text to images** — Helps screen-reader users understand images.
+- [ ] **Add Refund Policy** — Clearly explains refund and cancellation rules.
+- [ ] **Add Privacy Policy** — Explains how user data is collected and used.
+- [ ] **Fix accessibility issues** — Makes the site usable for everyone.
+- [ ] **Remove fake reviews** — Prevents misleading users and builds trust.
+- [ ] **Add Terms & Conditions** — Defines rules and responsibilities.
+- [ ] **Check 3rd-party embeds** — Identifies privacy, security, and tracking risks.
+- [ ] **Check image copyrights** — Prevents unauthorized use of protected content.
+- [ ] **Add Cookie Policy** — Explains cookies and tracking technologies.
+- [ ] **Check tracking** — Ensures analytics and trackers are appropriate.
+- [ ] **Add form consent where required** — Makes data collection transparent.
+- [ ] **Check local laws** — Helps meet applicable legal requirements.
+- [ ] **Use clear button labels** — Makes actions obvious and accessible.
+- [ ] **Check cookie consent** — Ensures non-essential tracking is properly controlled.
+- [ ] **Add real business details** — Makes the business identifiable and trustworthy.
+- [ ] **Collect only necessary data** — Reduces privacy and security risks.
+- [ ] **Make forms keyboard-friendly** — Ensures forms work without a mouse.
+- [ ] **Remove unsupported claims** — Prevents misleading marketing and false promises.
+- [ ] **Check security basics** — Protects users, data, and the application.
+- [ ] **Check mobile accessibility** — Ensures the site works properly on mobile devices.
+- [ ] **Check focus states** — Helps keyboard users navigate the interface.
+- [ ] **Check error messages** — Makes problems clear and actionable.
+- [ ] **Check privacy before loading trackers** — Prevents premature data collection.
+- [ ] **Check exposed secrets/API keys** — Prevents unauthorized access and abuse.
+- [ ] **Run accessibility tests** — Detects issues automated/manual review may miss.
+- [ ] **Run build & tests** — Confirms fixes did not break the application.
+- [ ] **Check console errors** — Identifies runtime problems affecting users.
+- [ ] **Check broken links** — Prevents users from reaching missing pages.
